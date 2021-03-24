@@ -24,4 +24,4 @@ for (var i = 0; i < list.length; i++) {
 
 // Output 
 document.getElementById("list").innerHTML = surnames;
-document.getElementById("position").innerHTML = "Surname you entered is in position number " + position;
+document.getElementById("position").innerHTML = "Your position is: " + position;
